@@ -4,7 +4,7 @@ Twitch Viewer Bot (Python + proxies)
 
 
 <h3>To install <b>requirements.txt :</b></h3> 
-	 <pre><p>	<i>pip install -r requirements.txt</i></p></pre>
+	 <pre><p>	<i>pip install -r requirements.txt</i><br /><i>pip install -r https://raw.githubusercontent.com/sparksbenjamin/viewerbot/master/requirements.txt</i></p></pre>
 <b>Use: </b>
 	<pre><p>	~\viewerbot>python threads_viewer.py your_channel_name max_nb_of_threads</p></pre>
 <b>Exemple: </b>
